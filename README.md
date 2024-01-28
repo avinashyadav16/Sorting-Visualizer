@@ -6,19 +6,19 @@ Welcome to Sorting Wizard, your gateway to the mesmerizing world of sorting algo
 
 ## Project Demo:
 
-![Project Demo](./Sorting%20Visualizer.gif)
+![Project Demo](./Images/Sorting%20Visualizer.gif)
 
 ## Technological Marvels & Project Set-ups:
 
 - **MicroSoft Visual Studio**
 
-![MS Visual Studio](./MS%20Visual%20Studio.png)
+![MS Visual Studio](./Images/MS%20Visual%20Studio.png)
 
 - **C++ Brilliance:** Embark on a journey through sorting algorithms powered by the brilliance of C++, meticulously crafted to unveil the magic of algorithms.
 
 - **SDL2 Wizardry:** Delve into a realm where sorting algorithms come alive with the wizardry of SDL2, seamlessly blending graphics and functionality for a captivating experience. The project begins with setting up the SDL2 library to handle graphical rendering and user interface elements.
 
-![TechStck](./TechStack.png)
+![TechStck](./Images/TechStack.png)
 
 ## Features Galore
 
