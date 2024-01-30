@@ -6,7 +6,7 @@ Welcome to Sorting Wizard, your gateway to the mesmerizing world of sorting algo
 
 ## Project Demo:
 
-![Project Demo](Sorting%20Visualizer.gif)
+![Project Demo](./Images/Sorting%20Visualizer.gif)
 
 ## Technological Marvels & Project Set-ups:
 
